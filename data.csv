@@ -1,0 +1,39 @@
+product_id	id	year	make	model	price	image	description	status	action
+ng60ur	1	1980	ALFA ROMEO 	MiTo	6000	nissan.png	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+cc12hh	2	1981	ALFA ROMEO 	Giulietta	6000	chevrolet.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+ha35gh	3	1982	AUDI 	A1	3500	vios.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+hc53am	4	1983	AUDI 	A3	5500	vios.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+tr64tg	5	1984	FORD 	Fiesta	4000	toyota.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+fm59lg	6	1985	FORD 	B-Max	4000	ford.png	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+hc48pr	7	1986	FORD 	EcoSport	4500	honda.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+ng60ur	8	1987	HONDA 	Jazz	6000	nissan.png	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+cc12hh	9	1988	HONDA 	Civic	6000	chevrolet.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+ha35gh	10	1989	HYUNDAI 	i10	3500	vios.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+hc53am	11	1990	HYUNDAI 	i20	5500	vios.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+tr64tg	12	1991	MERCEDES BENZ 	CLA	4000	toyota.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+fm59lg	13	1992	MERCEDES BENZ 	V-Class	4000	ford.png	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+hc48pr	14	1993	MITSUBISHI 	Mirage	4500	honda.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+ng60ur	15	1994	MITSUBISHI 	ASX	6000	nissan.png	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+cc12hh	16	1995	SUZUKI 	Celerio	6000	chevrolet.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+ha35gh	17	1996	SUZUKI 	Swift	3500	vios.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+hc53am	18	1997	TOYOTA 	Verso	5500	vios.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+tr64tg	19	1998	TOYOTA 	Prius	4000	toyota.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+fm59lg	20	1999	VOLVO 	V40	4000	ford.png	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+hc48pr	21	2000	BMW 	1 Series	4500	honda.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+ng60ur	22	2001	BMW 	2 Series	6000	nissan.png	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+cc12hh	23	2002	FORD 	S-MAX	6000	chevrolet.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+ha35gh	24	2003	FORD 	Galaxy	3500	vios.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+hc53am	25	2004	HONDA 	HR-V	5500	vios.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+tr64tg	26	2005	HONDA 	CR-V	4000	toyota.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+fm59lg	27	2006	HYUNDAI 	ix20	4000	ford.png	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+hc48pr	28	2007	HYUNDAI 	i30	4500	honda.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+ng60ur	29	2008	HYUNDAI 	Tucson	6000	nissan.png	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+cc12hh	30	2009	HYUNDAI 	IONIQ	6000	chevrolet.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+ha35gh	31	2010	SUZUKI 	Ignis	3500	vios.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+hc53am	32	2011	SUZUKI 	S-Cross	5500	vios.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+tr64tg	33	2012	SUZUKI 	Jimny	4000	toyota.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+fm59lg	34	2013	SUZUKI 	Vitara	4000	ford.png	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+hc48pr	35	2014	Aston Martin	ASX	4500	honda.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+ng60ur	36	2015	Austin	Celerio	6000	nissan.png	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+cc12hh	37	2016	Bentley	Swift	6000	chevrolet.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
+ha35gh	38	2017	Mazda	Verso	3500	vios.jpg	This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit	active	new
